@@ -1,0 +1,2 @@
+Question given in Steganography task was a challenge in which we have been given a corrupted PNG image file. We need to find the flag in the format flag{...}
+So solution to the problem is :- flag{g0t_1t_in_pLAin_sight} and the corrected png file named challenge_solved.png has been attached.
